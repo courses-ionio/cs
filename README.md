@@ -4,7 +4,7 @@
 
 [Οδηγίες και απαντήσεις σε συχνές απορίες](https://courses-ionio.github.io/help/) για την παράδοση της εργασίας.
 
-[Ανακοινώσεις](https://github.com/courses-ionio/help/issues/45), [απορίες](https://github.com/courses-ionio/help/issues/44), και σχετικά θέματα π.χ. πρόγραμμα συναντήσεων [κ.ά.](https://github.com/courses-ionio/help/issues).
+[Ανακοινώσεις](https://github.com/courses-ionio/help/issues/45), [απορίες](https://github.com/courses-ionio/help/issues/44), και σχετικά θέματα όπως πρόγραμμα συναντήσεων [κ.ά.](https://github.com/courses-ionio/help/issues).
 
 # Syllabus
 
