@@ -80,7 +80,7 @@
 
 ![pwa_cached_posts](https://github.com/courses-ionio/sw/blob/master/projects/2016149/pwa_cached_posts.png)  
 
-![pwa_in_action](https://github.com/courses-ionio/sw/blob/master/projects/2016149/2016149/pwa.gif)
+![pwa_in_action](https://github.com/courses-ionio/sw/blob/master/projects/2016149/pwa.gif)
 
 ## Συμπεράσματα  
 &nbsp;&nbsp;&nbsp;&nbsp;Τέλος, μπορώ να δηλώσω με σιγουριά ότι η συγκεκριμένη εργασία μου έμαθε πως να χρησιμοποιώ το περιβάλλον github pages προκειμένου να παράγω μια ιστοσελίδα και πώς να χρησιμοποιώ ενα gem plugin για να προσθέσω επιπλέον λειτουργικότητα σε αυτήν. 
